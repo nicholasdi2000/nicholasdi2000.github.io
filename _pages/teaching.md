@@ -7,6 +7,13 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+Rice University: 
+Teachings Assistant, STAT 425: Bayesian Inference 
+Teachings Assistant, STAT 405/605: Data Science in R
 
-Organize your courses by years, topics, or universities, however you like!
+Macalester University: 
+Teaching Assistant, COMP 123: Introduction to Computer Science
+Teaching Assistant, STAT 155: Introduction to Statistical Modeling
+Teaching Assistant, ECON 194: Calculus Based Principles of Economics
+Teaching Assistant, STAT 253: Statistical Machine Learning
+Supplemental Instructor, ECON 381: Econometrics

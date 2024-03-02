@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>Rice University</a>. 6100 Main St, Houston, TX 77005. nd56@rice.edu
 
 profile:
   align: right
@@ -19,8 +19,5 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Greetings, welcome to my portfolio! I am currently a PhD Student in Statistics at Rice University! Before, I graduated from Macalester College with a double major in Economics (Honors) and worked in Economic Consulting in Washington D.C. I am particularly interested in Causal Inference, Dependent Data, and Graphical Models. Outside of school, I enjoy weightlifting, hiking, and skiing!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
