@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 ## Rice University
-Teachings Assistant,  
+Teaching Assistant,  
 STAT 425: Bayesian Inference  
 STAT 405/605: Data Science in R  
 
