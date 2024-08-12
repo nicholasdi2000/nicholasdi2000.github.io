@@ -6,12 +6,11 @@ subtitle: <a href='#'>Rice University</a>. 6100 Main St, Houston, TX 77005. nd56
 
 profile:
   align: right
-  image: NickProfilePic
+  image: NickProfilePic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>222 Maxfield Hall</p>
+  
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
