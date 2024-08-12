@@ -7,12 +7,12 @@ nav: true
 nav_order: 6
 ---
 
-## Rice University
+Rice University
 Teaching Assistant,  
 STAT 425: Bayesian Inference  
 STAT 405/605: Data Science in R  
 
-## Macalester University
+Macalester University
 Supplemental Instructor,  
 ECON 381: Econometrics  
 
