@@ -11,7 +11,7 @@ nav_order: 6
 
 ## Teaching Assistant  
 - **STAT 425:** Bayesian Inference  
-- **STAT 405/605:** Data Science in R  
+- **STAT 605:** Data Science in R  
 
 # Macalester College
 
