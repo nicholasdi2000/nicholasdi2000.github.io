@@ -9,16 +9,16 @@ nav_order: 6
 
 # Rice University
 
-## Teaching Assistant  
+### Teaching Assistant  
 - **STAT 425:** Bayesian Inference  
 - **STAT 605:** Data Science in R  
 
 # Macalester College
 
-## Supplemental Instructor  
+### Supplemental Instructor  
 - **ECON 381:** Econometrics  
 
-## Teaching Assistant
+### Teaching Assistant
 - **COMP 123:** Introduction to Computer Science  
 - **STAT 155:** Introduction to Statistical Modeling  
 - **ECON 194:** Calculus Based Principles of Economics  
