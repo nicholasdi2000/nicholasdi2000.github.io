@@ -6,7 +6,7 @@ subtitle: <a href='#'>Rice University</a>. 6100 Main St, Houston, TX 77005. nd56
 
 profile:
   align: right
-  image: /assets/img/RealProfPic.jpg
+  image: RealProfPic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>222 Maxfield Hall</p>
