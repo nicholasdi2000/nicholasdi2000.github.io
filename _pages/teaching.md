@@ -12,7 +12,7 @@ Teaching Assistant,
 STAT 425: Bayesian Inference  
 STAT 405/605: Data Science in R  
 
-Macalester University
+Macalester College
 Supplemental Instructor,  
 ECON 381: Econometrics  
 
