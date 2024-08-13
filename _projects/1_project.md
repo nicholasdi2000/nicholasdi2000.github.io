@@ -7,6 +7,7 @@ importance: 1
 category: work
 related_publications: false
 ---
+
 Introduction
 
 When raising a child, parents go through lots of stress to keep their children safe and healthy. From using car seats to getting children vaccinated to working on speech and mobility development and beyond, there is a lot to think about. But one aspect that may be overlooked in providing safe and healthy environment for a child is lead. Lead in paint, soil, air, or water is invisible to the naked eye and has no smell (“Prevent Children’s Exposure to Lead” 2021). However, children can be exposed to lead in a variety of manners, including swallowing house dust or soil contaminated by lead paint or drinking water delivered through lead-based pipes, faucets, and plumbing fixtures. Exposure to this hidden element can seriously harm a child’s health, including damage to the child’s brain and nervous system, slowed growth and development, as well as learning, hearing, speech, and behavior problems (“Prevent Children’s Exposure to Lead” 2021). If exposed to especially high levels of lead, children can face a brain condition known as encephalopathy, severe neurological damage, comas, and even death (“Annual Elevated Blood Lead Levels” 2020). Thus, without a question it is crucial to keep lead exposure to a minimum when raising a child.
