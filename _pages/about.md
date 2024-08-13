@@ -10,7 +10,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>222 Maxfield Hall</p>
-  
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
@@ -19,4 +18,3 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Greetings, welcome to my portfolio! I am currently a PhD Student in Statistics at Rice University! Before, I graduated from Macalester College with a double major in Economics (Honors) and Applied Math. I am particularly interested in Causal Inference, Dependent Data, and Graphical Models. Outside of school, I enjoy weightlifting, hiking, and skiing!
-
