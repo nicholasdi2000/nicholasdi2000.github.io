@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Test eTest test Graduated Undergraduate Macalester College in Saint Paul, MN
+Graduated Undergraduate Macalester College in Saint Paul, MN
