@@ -10,4 +10,5 @@ related_publications: false
 
 ## Full Analysis
 
-<iframe src="assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
+<iframe src="/Users/nd56/Desktop/Personal Website/nickdididi.github.io/assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
+
