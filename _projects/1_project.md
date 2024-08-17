@@ -6,11 +6,10 @@ img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: false
-redirect: assets/pdf/CorrelatedData.pdf
 ---
 
 ## Full Analysis
 
-<iframe src="assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://nickdididi.github.io/assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
 
 [Download the full analysis](https://nickdididi.github.io/assets/pdf/CorrelatedData.pdf)
