@@ -10,4 +10,4 @@ related_publications: false
 
 ## Full Analysis
 
-You can view the full analysis by downloading the PDF [here](assets/pdf/CorrelatedData.pdf).
+<iframe src="assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
