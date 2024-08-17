@@ -5,7 +5,7 @@ description: Undergraduate Capstone Project
 img: assets/img/Lasso.jpg
 importance: 2
 category: work
-giscus_comments: true
+date: 2022-05-01
 ---
 In Mathematical Statistics (STAT 455), we conducted an in-depth exploration of LASSO, one of the most widely used regularization methods. This project was especially interesting as it involved a thorough mathematical analysis of LASSO's behavior, complemented by a simulation that effectively demonstrated its properties.
 
