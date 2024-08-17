@@ -12,4 +12,4 @@ related_publications: false
 
 <iframe src="assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
 
-[Download the full analysis](assets/pdf/CorrelatedData.pdf)
+[Download the full analysis](https://nickdididi.github.io/assets/pdf/CorrelatedData.pdf)
