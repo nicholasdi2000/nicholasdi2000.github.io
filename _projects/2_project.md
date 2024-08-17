@@ -2,7 +2,7 @@
 layout: page
 title: Lasso Simulation
 description: Undergraduate Capstone Project
-img: assets/img/3.jpg
+img: assets/img/Lasso.jpg
 importance: 2
 category: work
 giscus_comments: true
