@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Twin Cities Blood Lead Levels Analysis
-description: a project with a background image
+description: Undergraduate Capstone Project
 img: assets/img/12.jpg
 importance: 1
 category: work
