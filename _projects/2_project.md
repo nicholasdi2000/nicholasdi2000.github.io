@@ -14,5 +14,4 @@ In Mathematical Statistics (STAT 455), we conducted an in-depth exploration of L
 <iframe src="https://nickdididi.github.io/assets/pdf/Lasso.pdf" width="100%" height="600px"></iframe>
 
 [Open in New Window](https://nickdididi.github.io/assets/pdf/Lasso.pdf)
-<iframe src="assets/pdf/Lasso.pdf" width="100%" height="600px"></iframe>
 
