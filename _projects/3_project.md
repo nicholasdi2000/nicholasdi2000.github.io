@@ -2,7 +2,7 @@
 layout: page
 title: Room Size Effect in Social Experiments 
 description: Undergraduate Capstone Project
-img: assets/img/Lasso.jpg
+img: assets/img/room.jpg
 importance: 3
 category: work
 date: 2022-12-01
