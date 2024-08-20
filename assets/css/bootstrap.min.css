@@ -427,10 +427,7 @@ pre code {
   margin-left: -15px;
 }
 .col,
-.col-md-10,
 .col-md-12,
-.col-md-2,
-.col-md-6,
 .col-sm,
 .col-sm-2,
 .col-sm-3,
@@ -489,21 +486,6 @@ pre code {
   }
 }
 @media (min-width: 768px) {
-  .col-md-2 {
-    -ms-flex: 0 0 16.666667%;
-    flex: 0 0 16.666667%;
-    max-width: 16.666667%;
-  }
-  .col-md-6 {
-    -ms-flex: 0 0 50%;
-    flex: 0 0 50%;
-    max-width: 50%;
-  }
-  .col-md-10 {
-    -ms-flex: 0 0 83.333333%;
-    flex: 0 0 83.333333%;
-    max-width: 83.333333%;
-  }
   .col-md-12 {
     -ms-flex: 0 0 100%;
     flex: 0 0 100%;
@@ -1286,15 +1268,6 @@ a.badge:hover {
   margin-top: -1px;
   border-top-width: 1px;
 }
-.list-group-flush {
-  border-radius: 0;
-}
-.list-group-flush > .list-group-item {
-  border-width: 0 0 1px;
-}
-.list-group-flush > .list-group-item:last-child {
-  border-bottom-width: 0;
-}
 .close {
   float: right;
   font-size: 1.5rem;
@@ -1658,9 +1631,6 @@ a.close.disabled {
     transform: none;
   }
 }
-.align-middle {
-  vertical-align: middle !important;
-}
 .border {
   border: 1px solid #dee2e6 !important;
 }
@@ -1803,7 +1773,7 @@ a.close.disabled {
 .ml-1 {
   margin-left: 0.25rem !important;
 }
-.mt-2,
+
 .my-2 {
   margin-top: 0.5rem !important;
 }
@@ -1823,20 +1793,8 @@ a.close.disabled {
 .p-0 {
   padding: 0 !important;
 }
-.p-1 {
-  padding: 0.25rem !important;
-}
 .p-2 {
   padding: 0.5rem !important;
-}
-.pr-2 {
-  padding-right: 0.5rem !important;
-}
-.pl-2 {
-  padding-left: 0.5rem !important;
-}
-.p-3 {
-  padding: 1rem !important;
 }
 .ml-auto {
   margin-left: auto !important;
@@ -1844,9 +1802,6 @@ a.close.disabled {
 @media (min-width: 768px) {
   .mt-md-0 {
     margin-top: 0 !important;
-  }
-  .ml-md-4 {
-    margin-left: 1.5rem !important;
   }
 }
 .text-right {
@@ -1857,12 +1812,6 @@ a.close.disabled {
 }
 .text-lowercase {
   text-transform: lowercase !important;
-}
-.text-uppercase {
-  text-transform: uppercase !important;
-}
-.font-weight-light {
-  font-weight: 300 !important;
 }
 .font-weight-lighter {
   font-weight: lighter !important;
