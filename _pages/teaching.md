@@ -10,7 +10,7 @@ nav_order: 6
 # Rice University
 
 #### Teaching Assistant
-
+- **STAT 413:** Intro to Statistical Machine Learning
 - **STAT 425:** Bayesian Inference
 - **STAT 405/605:** Data Science in R
 
