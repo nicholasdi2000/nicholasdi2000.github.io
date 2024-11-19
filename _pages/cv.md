@@ -5,9 +5,8 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: example_pdf.pdf
-description: 
+description:
 ---
-
 
 <div style="text-align: center;">
     <iframe src="https://nickdididi.github.io/assets/pdf/WebsiteCV.pdf" width="80%" height="800px" style="border: none;"></iframe>

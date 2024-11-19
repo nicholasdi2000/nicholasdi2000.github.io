@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"Gendered labor market outcomes during COVID-19: Evidence from early withdrawal of Federal Pandemic Unemployment Compensation" published in The Developing Economist 
+"Gendered labor market outcomes during COVID-19: Evidence from early withdrawal of Federal Pandemic Unemployment Compensation" published in The Developing Economist
