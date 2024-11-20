@@ -11,6 +11,6 @@ category: Class Projects
 
 ## PDF Analysis
 
-<iframe src="https://nickdi.github.io/assets/pdf/CausalFirst.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://nickdididi.github.io/assets/pdf/CausalFirst.pdf" width="100%" height="600px"></iframe>
 
-[Open in New Window](https://nickdi.github.io/assets/pdf/CausalFirst.pdf)
+[Open in New Window](https://nickdididi.github.io/assets/pdf/CausalFirst.pdf)

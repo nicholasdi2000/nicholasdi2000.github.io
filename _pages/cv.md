@@ -9,7 +9,7 @@ description:
 ---
 
 <div style="text-align: center;">
-    <iframe src="https://nickdi.github.io/assets/pdf/WebsiteCV.pdf" width="80%" height="800px" style="border: none;"></iframe>
+    <iframe src="https://nickdididi.github.io/assets/pdf/WebsiteCV.pdf" width="80%" height="800px" style="border: none;"></iframe>
 </div>
 
-[Open in New Window](https://nickdi.github.io/assets/pdf/WebsiteCV.pdf)
+[Open in New Window](https://nickdididi.github.io/assets/pdf/WebsiteCV.pdf)
