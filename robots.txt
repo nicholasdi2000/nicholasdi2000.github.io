@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nickdididi.github.io/sitemap.xml
+Sitemap: https://nickdi.github.io/sitemap.xml
