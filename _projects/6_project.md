@@ -8,8 +8,7 @@ category: Class Projects
 related_publications: false
 ---
 
-In Correlated Data (STAT 452) I learned how to work with time series, longitudinal, and spatially correlated data, and I particularly enjoyed incorporating spatial correlation to modeling techniques. This project, we delve into the critical issue of childhood lead exposure in the Twin Cities, which can cause significant harm to a child's brain and nervous system, slow growth and development, and, in severe cases, result in comas or death. Our goal was to understand the factors contributing to elevated blood lead levels in children and pinpoint where this issue is most prominent.
-
+Our work introduces an advanced detection method leveraging Long Short-Term Memory (LSTM) for identifying security vulnerabilities within the Linux kernel. Focusing on low-level context analysis and detailed per-process runtime behavior, it is meticulously designed to detect a broad spectrum of security threats while maintaining minimal impact on system performance.
 ## PDF Analysis
 
 <iframe src="https://nicholasdi2000.github.io/assets/pdf/DeepLearningProject.pdf" width="100%" height="600px"></iframe>
