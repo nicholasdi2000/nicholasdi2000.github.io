@@ -2,7 +2,7 @@
 layout: page
 title: Context-Aware Attack Classification
 description: Graduate Class Project
-img: assets/img/pipe.jpg
+img: assets/img/cyber.jpg
 importance: 1
 category: Class Projects
 related_publications: false
