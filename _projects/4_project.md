@@ -3,7 +3,7 @@ layout: page
 title: Bayesian Hierarchical Models
 description: Undergraduate Capstone Project
 img: assets/img/stock.jpg
-importance: 4
+importance: 5
 category: Class Projects
 date: 2022-12-01
 ---

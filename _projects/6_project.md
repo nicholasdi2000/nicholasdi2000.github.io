@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Twin Cities Blood Lead Levels Analysis
-description: Undergraduate Capstone Project
+title: Context-Aware Attack Classification
+description: Graduate Class Project
 img: assets/img/pipe.jpg
-importance: 2
+importance: 1
 category: Class Projects
 related_publications: false
 ---
@@ -12,6 +12,6 @@ In Correlated Data (STAT 452) I learned how to work with time series, longitudin
 
 ## PDF Analysis
 
-<iframe src="https://nicholasdi2000.github.io/assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://nicholasdi2000.github.io/assets/pdf/DeepLearningProject.pdf" width="100%" height="600px"></iframe>
 
-[Open in New Window](https://nicholasdi2000.github.io/assets/pdf/CorrelatedData.pdf)
+[Open in New Window](https://nicholasdi2000.github.io/assets/pdf/DeepLearningProject.pdf)

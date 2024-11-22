@@ -3,7 +3,7 @@ layout: page
 title: Causal Inference Research
 description: Undergraduate Summer Project
 img: assets/img/causal.jpg
-importance: 5
+importance: 6
 category: Class Projects
 ---
 

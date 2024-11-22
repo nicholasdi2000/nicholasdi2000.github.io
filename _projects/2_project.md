@@ -3,7 +3,7 @@ layout: page
 title: Lasso Simulation
 description: Undergraduate Capstone Project
 img: assets/img/Lasso.jpg
-importance: 2
+importance: 3
 category: Class Projects
 date: 2022-05-01
 ---
