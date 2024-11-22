@@ -12,6 +12,6 @@ The intersection between social preferences and economic behavior has been a sub
 
 ## PDF Analysis
 
-<iframe src="https://nickdididi.github.io/assets/pdf/ECONCAPSTONE.pdf" width="100%" height="600px"></iframe>
+<iframe src="https://nicholasdi2000.github.io/assets/pdf/ECONCAPSTONE.pdf" width="100%" height="600px"></iframe>
 
-[Open in New Window](https://nickdididi.github.io/assets/pdf/ECONCAPSTONE.pdf)
+[Open in New Window](https://nicholasdi2000.github.io/assets/pdf/ECONCAPSTONE.pdf)

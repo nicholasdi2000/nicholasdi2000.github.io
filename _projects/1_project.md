@@ -14,4 +14,4 @@ In Correlated Data (STAT 452) I learned how to work with time series, longitudin
 
 <iframe src="https://nickdididi.github.io/assets/pdf/CorrelatedData.pdf" width="100%" height="600px"></iframe>
 
-[Open in New Window](https://nickdididi.github.io/assets/pdf/CorrelatedData.pdf)
+[Open in New Window](https://nicholasdi2000.github.io/assets/pdf/CorrelatedData.pdf)
