@@ -4,3 +4,7 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"bRXiv":
+  url: https://www.biorxiv.org/content/10.1101/2024.11.03.621751v1
+  color: "#3CB371"
