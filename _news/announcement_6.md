@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-"The PRS-RV Causal Pivot: A Segmentation Approach to Complex Disease Genetics" accepted to SIAM Texas-Louisiana Sectional Meeting 2025
+"IFlowNets: Generative Flow Networks for Incomplete Information Games" accepted to SIAM Texas-Louisiana Sectional Meeting 2025
