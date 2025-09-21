@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://nicholasdi2000.github.io/nicholasdi2000.github.io/# the subpath of your site, e.g. /blog/. Leave blank for root/sitemap.xml
+Sitemap: https://nicholasdi2000.github.io/nicholasdi2000.github.io//sitemap.xml
