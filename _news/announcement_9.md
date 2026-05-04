@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-“FlowNets: Extending Generative Samplers to Learn Strategies in Incomplete Information Games.” accepted by NeurIPS Dynamics at the Frontiers of Optimization, Sampling, and Games Workshop
+“iFlowNets: Extending Generative Samplers to Learn Strategies in Incomplete Information Games.” accepted by NeurIPS Dynamics at the Frontiers of Optimization, Sampling, and Games Workshop

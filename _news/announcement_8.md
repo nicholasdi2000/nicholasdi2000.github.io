@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-“A Monte Carlo Approach for Nonsmooth Convex Optimization via Proximal Splitting Algorithms.” accepted by NeurIPS Optimization for Machine Learning Workshop 
+“A Monte Carlo Approach for Nonsmooth Convex Optimization via Proximal Splitting Algorithms” accepted by NeurIPS Optimization for Machine Learning Workshop 
