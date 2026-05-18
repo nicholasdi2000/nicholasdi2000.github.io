@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-“Operator Splitting with Hamilton-Jacobi-based Proximals” Invited Talk at SIAM Conference on Mathematics of Data Science, Salt Lake City UT
+“Operator Splitting with Hamilton-Jacobi-based Proximals” Minisymposium Talk at SIAM Conference on Mathematics of Data Science, Salt Lake City UT
