@@ -74,19 +74,15 @@
           and&nbsp;
         {%- endif -%}
         {%- if author_is_self -%}
-          <em>
-            {{- author.first }}&nbsp;{{ author.last -}}
-          </em>
+          <em>{{- author.first }}&nbsp;{{ author.last -}}</em>
         {%- else -%}
           {%- if coauthor_url -%}
-            <a href="{{coauthor_url}}">
-              {{- author.first }}&nbsp;{{ author.last -}}
-            </a>
+            <a href="{{coauthor_url}}">{{- author.first }}&nbsp;{{ author.last -}}</a>
           {%- else -%}
             {{- author.first }}&nbsp;{{ author.last -}}
           {%- endif -%}
         {%- endif -%}
-        {%- unless forloop.last -%},{{ " " }}{%- endunless -%}
+        {%- unless forloop.last -%},{{ ' ' }}{%- endunless -%}
       {%- endfor -%}
       {%- assign more_authors = author_array_size | minus: author_array_limit -%}
 
