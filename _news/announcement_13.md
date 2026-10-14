@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-“Surfacing Jagged Intelligence via Agentic Search for Weak-Model Wins” accepted to NeurIPS Self-Evolving Diversity-Driven Search for Robust AI Systems.
+“Surfacing Jagged Intelligence via Agentic Search for Weak-Model Wins” accepted to NeurIPS Self-Evolving Diversity-Driven Search for Robust AI Systems Workshop
