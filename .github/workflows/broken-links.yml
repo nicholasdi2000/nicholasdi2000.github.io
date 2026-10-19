@@ -49,4 +49,8 @@ jobs:
         with:
           fail: true
           # removed md files that include liquid tags
-          args: --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
+          # Check site assets in this checkout, even before they have been deployed.
+          args: >-
+            --remap '^https://nicholasdi2000\.github\.io/assets/ file://${{ github.workspace }}/assets/'
+            --exclude-path README.md --exclude-path _pages/404.md --exclude-path _pages/blog.md
+            --exclude-path _posts/2018-12-22-distill.md --verbose --no-progress './**/*.md' './**/*.html'
